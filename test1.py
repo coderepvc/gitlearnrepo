@@ -1,1 +1,1 @@
-print()[D"")[D[DH[2~"[Dello World")
+print("Hello World")
